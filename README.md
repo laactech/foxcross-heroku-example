@@ -1,4 +1,4 @@
-# foxcross-heroku-example
+# Foxcross Heroku Example
 
 An example set of Foxcross models deployed on heroku.
 
